@@ -1,0 +1,4 @@
+class PW
+{     
+    {   people.main}
+}
